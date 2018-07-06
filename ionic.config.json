@@ -1,0 +1,8 @@
+{
+  "name": "LibreriaLibre",
+  "app_id": "4caa9112",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
